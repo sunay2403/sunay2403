@@ -8,6 +8,7 @@
 
 I'm a **Computer Science Engineering student** at **NIT Surat** (2024-2028) with a passion for building scalable web applications and solving complex algorithmic problems. With a CGPA of 9.14/10, I'm constantly learning and exploring new technologies.
 
+- 🏆 **Winner of Genesis Competition** with an Algo Trading Bot project
 - 🔭 Currently working on full-stack projects with **MERN/NEXT.js** stack
 - 🌊 Built **AQUA VIBES** - a gamified ocean education platform
 - 💹 Developed an **Algo Trading Bot** using Machine Learning
@@ -46,6 +47,12 @@ I'm a **Computer Science Engineering student** at **NIT Surat** (2024-2028) with
 ### Machine Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
+## 🏆 Achievements
+
+- 🥇 **Winner - Genesis Competition** | Algo Trading Bot using Machine Learning
+- 🧩 **500+ Problems Solved** | LeetCode, Codeforces, CodeChef, CSES
+- 🎓 **CGPA: 9.03/10** | NIT Surat (after 3rd semester)
+
 ## 🏆 Featured Projects
 
 ### 🌊 [AQUA VIBES](https://github.com/sunay2403) 
@@ -53,19 +60,22 @@ I'm a **Computer Science Engineering student** at **NIT Surat** (2024-2028) with
 - Full-stack gamified social media platform for ocean education
 - **Stack:** Next.js, Django, PostgreSQL
 - Features: Points-based rewards, community interactions, donation tracking
-- Deployed on Vercel with REST API integration
-
+- 
 ### 🛎️ [Servito](https://github.com/sunay2403)
 **On-Demand Service Platform**
-- Budget-driven service marketplace
+- Budget-driven service marketplace connecting customers with service providers
 - **Stack:** MongoDB, Express.js, React, Node.js (MERN)
 - Real-time request handling and secure booking workflows
 
-### 📈 [Algo Trading Bot](https://github.com/sunay2403)
-**Machine Learning Trading System**
-- Algorithmic trading bot with ML-based predictions
-- **Stack:** Python, Scikit-learn
-- Technical indicators, scalping strategies, and backtesting on historical data
+### 📈 [Algo Trading Bot](https://github.com/sunay2403) 🏆
+**Machine Learning Trading System - Genesis Competition Winner**
+- **Won Genesis Competition** with this innovative trading solution
+- Algorithmic trading bot with ML-based trend prediction and scalping strategies
+- **Stack:** Python, Scikit-learn ,Streamlit
+- **Performance:** 15% profit on backtesting with historical market data
+- Implemented 8+ technical indicators (RSI, MACD, Moving Averages)
+- Backtested on 2+ years of historical data with 1000+ trades simulated
+- Risk management: Maximum drawdown kept under 8%
 
 ## 📊 Problem Solving Journey
 
@@ -78,11 +88,6 @@ I'm a **Computer Science Engineering student** at **NIT Surat** (2024-2028) with
 - **Executive Member** - ACM NIT Surat
 - **Representative** - NEXUS NIT Surat
 
-## 📈 GitHub Stats
-
-![Sunay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunay2403&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunay2403&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
